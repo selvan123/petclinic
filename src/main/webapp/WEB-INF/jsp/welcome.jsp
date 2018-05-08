@@ -13,5 +13,5 @@
         <h2>We strive to provide the best veterinary medicine coupled with the most compassionate, collaborative care in the region.  </h2>
     </div>
     <br/><br/><br/><br/><br/><br/>
-    <marquee behavior="scroll" direction="left">--Welcome ksr-</marquee>
+    <marquee behavior="scroll" direction="left">--  08 May 2018-</marquee>
 </petclinic:layout>
