@@ -12,6 +12,7 @@
             <img class="img-responsive" src="${petsImage}"/>
         </div>
         <h2>We strive to provide the best veterinary medicine coupled with the most compassionate, collaborative care in the Region</h2>
+        <h2>Welcome</h2>
     </div>
     <br/><br/><br/><br/><br/>
    
