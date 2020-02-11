@@ -8,7 +8,7 @@
     <h2>Welcome to DAC</h2>    
     <div class="row">
         <div class="col-md-12">
-            <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
+            <spring:url value="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ46ldtL4F1DIaVCaF3Pgb17i58tiApFXdfdSQbB-eAOlQat0bW" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" src="${petsImage}"/>
         </div>
         <h2>We strive to provide the best veterinary medicine coupled with the most compassionate, collaborative care in the Region</h2>
